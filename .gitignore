@@ -7,7 +7,6 @@
 
 # testing
 /coverage
-/reports
 
 # production
 /build
@@ -25,6 +24,3 @@ yarn-error.log*
 
 # VSCode repo settings
 .vscode
-
-# stryker temp files
-.stryker-tmp
